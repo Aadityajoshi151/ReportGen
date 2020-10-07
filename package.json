@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "docxtemplater": "^3.19.6",
     "officegen": "^0.6.4",
+    "pizzip": "^3.0.6",
     "xml-js": "^1.6.11"
   }
 }
